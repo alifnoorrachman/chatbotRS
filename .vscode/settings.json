@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3528c73c-f443-4ebd-9891-ec70926bba56/resourceGroups/chatbotRS/providers/Microsoft.Web/sites/chatbotRS-bot-3e93",
+    "appService.deploySubpath": "bin\\Debug\\netcoreapp3.1"
+}
